@@ -3,8 +3,8 @@ local Configuration = {
 	UseWorkspace = false, 
 	NoActors = false,
 	FolderName = "Sigma Spy",
-	RepoUrl = [[https://github.com/muhmursalind/ReSigmaSpy/Sigma-Spy]],
-	ParserUrl = [[https://github.com/muhmursalind/ReSigmaSpy/Roblox-parser/dist/Main.luau]],
+	RepoUrl = [[http://github.com/muhmursalind/ReSigmaSpy/Sigma-Spy]],
+	ParserUrl = [[http://github.com/muhmursalind/ReSigmaSpy/Roblox-parser/dist/Main.luau]],
     Directory = "Sigma Spy"
 }
 
@@ -133,3 +133,4 @@ Event:Fire("BeginHooks", {
 	PatchFunctions = EnablePatches
 
 })
+
